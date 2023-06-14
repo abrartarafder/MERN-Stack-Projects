@@ -1,6 +1,5 @@
 # MERN-Stack-to-do
-
-1. mern github -- beginner mern project essentially it just has a user type in their name, username, and age and it shows up on the screen -- which relates to the MERN aspect of the frontend connecting to the backend. The users also show up on mongodb as well. This is more of a learning project to understand the basics of MERN and to continue to work on more projects moving forward
+mern github -- beginner mern project essentially it just has a user type in their name, username, and age and it shows up on the screen -- which relates to the MERN aspect of the frontend connecting to the backend. The users also show up on mongodb as well. This is more of a learning project to understand the basics of MERN and to continue to work on more projects moving forward
 
 ## Tools
 
