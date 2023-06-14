@@ -4,7 +4,7 @@
 
 ## Backend 
 
-MongoDB <p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img> : MongoDB is a NoSQL database that stores data in a flexible, JSON-like format. It is used as the database component of the MERN stack. MongoDB allows developers to store and retrieve data in a scalable and efficient manner, making it suitable for handling large amounts of data.
+MongoDB: MongoDB is a NoSQL database that stores data in a flexible, JSON-like format. It is used as the database component of the MERN stack. MongoDB allows developers to store and retrieve data in a scalable and efficient manner, making it suitable for handling large amounts of data.
 
 Express.js: Express.js is a minimal and flexible web application framework for Node.js. It provides a set of features and tools for building web applications and APIs. Express.js simplifies the process of handling HTTP requests, routing, and middleware integration, making it easier to build server-side applications in the MERN stack. The get and post requests are handled by ExpressJs
 
